@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FE개발자%20%20%20최고은입니다!&reversal=true&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FE개발하는%20%20%20최고은입니다!&reversal=true&textBg=false)
 
 
 <!--START_SECTION:waka-->

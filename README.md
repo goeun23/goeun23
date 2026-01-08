@@ -1,4 +1,4 @@
-## Hi there 👋
+[![header](https://capsule-render.vercel.app/api?type=venom)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FE개발자%20%20%20최고은입니다:)&reversal=true&textBg=false)
 
 
 <!--START_SECTION:waka-->

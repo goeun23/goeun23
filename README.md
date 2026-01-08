@@ -2,6 +2,79 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 56.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 9 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+🌆 Daytime                877 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌃 Evening                1893 commits        ███████████████░░░░░░░░░░   60.00 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Tuesday                  214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Wednesday                377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Thursday                 359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Friday                   186 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Saturday                 844 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Sunday                   770 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               13 repos            ███████████░░░░░░░░░░░░░░   43.33 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Vue                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/goeun23/goeun23/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/01/2026 06:20:58 UTC
 <!--END_SECTION:waka-->
 
 <!--

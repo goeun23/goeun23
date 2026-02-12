@@ -18,18 +18,16 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               16 mins             ███████████████████░░░░░░   77.35 % 
-Vue.js                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-booking-page             21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -45,7 +43,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 19:37:02 UTC
+ Last Updated on 12/02/2026 19:35:23 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -5,9 +5,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                935 commits         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-🌃 Evening                1898 commits        ███████████████░░░░░░░░░░   58.49 % 
+🌞 Morning                315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌆 Daytime                937 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+🌃 Evening                1899 commits        ███████████████░░░░░░░░░░   58.47 % 
 🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
@@ -18,40 +18,40 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               7 hrs 14 mins       ██████████████████████░░░   88.19 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               10 hrs 34 mins      ██████████████████████░░░   87.92 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-Antigravity              8 hrs 12 mins       █████████████████████████   100.00 % 
+Antigravity              12 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-winary                   7 hrs 38 mins       ███████████████████████░░   93.04 % 
-portfolio                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-winary-next              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-goeun                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+winary                   7 hrs 49 mins       ████████████████░░░░░░░░░   65.10 % 
+winary-next              3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
+portfolio                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+goeun                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       █████████████████████░░░░   84.21 % 
-WSL                      1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Windows                  10 hrs 43 mins      ██████████████████████░░░   89.22 % 
+WSL                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████████░░░░░░░░░░░░░   48.48 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Vue                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Vue                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
 
 
- Last Updated on 25/02/2026 19:35:00 UTC
+ Last Updated on 26/02/2026 19:27:51 UTC
 <!--END_SECTION:waka-->
 
 <!--

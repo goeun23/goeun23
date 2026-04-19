@@ -5,10 +5,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                937 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌃 Evening                1903 commits        ███████████████░░░░░░░░░░   58.50 % 
-🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+🌞 Morning                316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌆 Daytime                938 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌃 Evening                1914 commits        ███████████████░░░░░░░░░░   58.62 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 
 
@@ -18,38 +18,38 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               18 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
-TypeScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Markdown                 2 hrs 8 mins        ██████████████░░░░░░░░░░░   57.98 % 
+Python                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 Editors: 
-Antigravity              55 mins             █████████████████████████   100.00 % 
+Antigravity              3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-platform              37 mins             █████████████████░░░░░░░░   67.65 % 
-chatbot-ui               16 mins             ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-winary-next              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+ai-platform-skill-test   2 hrs 37 mins       ██████████████████░░░░░░░   71.50 % 
+ai-platform              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+chatbot-ui               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Vue                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TypeScript               17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Vue                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 
 
 
- Last Updated on 18/04/2026 19:25:10 UTC
+ Last Updated on 19/04/2026 19:26:14 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -18,19 +18,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        ███████████████████████░░   92.62 % 
-Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 1 hr 25 mins        ██████████████████████░░░   88.96 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        █████████████████████░░░░   84.08 % 
-Antigravity IDE          14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Claude Code              1 hr 21 mins        █████████████████████░░░░   84.71 % 
+Antigravity IDE          14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 
 🐱‍💻 Projects: 
-brain                    1 hr 31 mins        █████████████████████████   100.00 % 
+brain                    1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -46,7 +46,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:46:38 UTC
+ Last Updated on 26/07/2026 19:46:25 UTC
 <!--END_SECTION:waka-->
 
 <!--

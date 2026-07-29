@@ -2,12 +2,14 @@
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2027%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-🌆 Daytime                1008 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌃 Evening                2164 commits        ███████████████░░░░░░░░░░   59.98 % 
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+🌆 Daytime                1009 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+🌃 Evening                2164 commits        ███████████████░░░░░░░░░░   59.96 % 
 🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 
@@ -18,46 +20,44 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 52 mins             ███████████████░░░░░░░░░░   60.04 % 
-Other                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    13 mins             ████████████░░░░░░░░░░░░░   49.37 % 
+TypeScript               13 mins             ████████████░░░░░░░░░░░░░   48.84 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-Claude Code              57 mins             ████████████████░░░░░░░░░   65.44 % 
-Antigravity IDE          30 mins             █████████░░░░░░░░░░░░░░░░   34.56 % 
+Antigravity IDE          24 mins             ██████████████████████░░░   86.55 % 
+Claude Code              3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 
 🐱‍💻 Projects: 
-brain                    1 hr 3 mins         ██████████████████░░░░░░░   72.13 % 
-jd-scrap                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-jd-scrapper              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+jd-scrap                 18 mins             █████████████████░░░░░░░░   67.44 % 
+jd-scrapper              5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+brain                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (65.71%)
+⏱ AI Coding Time: 3 mins (13.45%)
 
-✍️ 679 lines written by AI, 392 lines written by hand (63.4% AI-written)
+✍️ 0 lines written by AI, 392 lines written by hand (0.0% AI-written)
 
-🔤 19,028,365 Input Tokens, 96,146 Output Tokens
+🔤 47,103 Input Tokens, 730 Output Tokens
 
-💵 $58.63 Estimated AI Cost This Week
+💵 $0.25 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Sonnet                   680 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.4% of written lines came from AI
-📄 Detailed Prompter — average 925 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 36.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:04:33 UTC
+ Last Updated on 29/07/2026 19:55:11 UTC
 <!--END_SECTION:waka-->
 
 <!--

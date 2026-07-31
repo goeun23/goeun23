@@ -8,8 +8,8 @@
 
 ```text
 🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-🌆 Daytime                1010 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌃 Evening                2164 commits        ███████████████░░░░░░░░░░   59.94 % 
+🌆 Daytime                1011 commits        ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+🌃 Evening                2164 commits        ███████████████░░░░░░░░░░   59.93 % 
 🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 
@@ -20,42 +20,44 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    13 mins             ████████████░░░░░░░░░░░░░   49.37 % 
-TypeScript               13 mins             ████████████░░░░░░░░░░░░░   48.84 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    13 mins             ████████████░░░░░░░░░░░░░   46.41 % 
+TypeScript               13 mins             ███████████░░░░░░░░░░░░░░   45.92 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Antigravity IDE          24 mins             ██████████████████████░░░   86.55 % 
-Claude Code              3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Antigravity IDE          24 mins             ████████████████████░░░░░   81.36 % 
+Claude Code              5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 
 🐱‍💻 Projects: 
-jd-scrap                 18 mins             █████████████████░░░░░░░░   67.44 % 
-jd-scrapper              5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-brain                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+jd-scrap                 18 mins             ████████████████░░░░░░░░░   63.40 % 
+brain                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+jd-scrapper              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (13.45%)
+⏱ AI Coding Time: 5 mins (18.64%)
 
 ✍️ 0 lines written by AI, 392 lines written by hand (0.0% AI-written)
 
-🔤 47,103 Input Tokens, 730 Output Tokens
+🔤 1,030,092 Input Tokens, 5,916 Output Tokens
 
-💵 $0.25 Estimated AI Cost This Week
+💵 $3.28 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
+📚 Verbose Prompter — average 1,586 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -73,7 +75,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:05:08 UTC
+ Last Updated on 31/07/2026 20:06:12 UTC
 <!--END_SECTION:waka-->
 
 <!--

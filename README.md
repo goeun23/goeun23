@@ -7,10 +7,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-🌆 Daytime                1011 commits        ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-🌃 Evening                2164 commits        ███████████████░░░░░░░░░░   59.93 % 
-🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+🌆 Daytime                1011 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                2173 commits        ███████████████░░░░░░░░░░   60.03 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
 
@@ -20,46 +20,46 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    13 mins             ████████████░░░░░░░░░░░░░   46.41 % 
-TypeScript               13 mins             ███████████░░░░░░░░░░░░░░   45.92 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.18 % 
+TypeScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Git Config               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Antigravity IDE          24 mins             ████████████████████░░░░░   81.36 % 
-Claude Code              5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Antigravity IDE          35 mins             ████████████████░░░░░░░░░   62.91 % 
+Claude Code              20 mins             █████████░░░░░░░░░░░░░░░░   37.09 % 
 
 🐱‍💻 Projects: 
-jd-scrap                 18 mins             ████████████████░░░░░░░░░   63.40 % 
-brain                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-jd-scrapper              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+brain                    31 mins             ██████████████░░░░░░░░░░░   56.65 % 
+jd-scrap                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
+jd-scrapper              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (18.64%)
+⏱ AI Coding Time: 21 mins (37.43%)
 
-✍️ 0 lines written by AI, 392 lines written by hand (0.0% AI-written)
+✍️ 202 lines written by AI, 398 lines written by hand (33.67% AI-written)
 
-🔤 1,030,092 Input Tokens, 5,916 Output Tokens
+🔤 2,386,194 Input Tokens, 30,147 Output Tokens
 
-💵 $3.28 Estimated AI Cost This Week
+💵 $10.67 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 15 AI Prompts
 
+Opus                     202 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,586 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 33.67% of written lines came from AI
+📄 Detailed Prompter — average 802 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 66.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:46:25 UTC
+ Last Updated on 02/08/2026 19:45:49 UTC
 <!--END_SECTION:waka-->
 
 <!--

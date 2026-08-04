@@ -2,15 +2,15 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-🌆 Daytime                1011 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-🌃 Evening                2173 commits        ███████████████░░░░░░░░░░   60.03 % 
-🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+🌞 Morning                350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+🌆 Daytime                1058 commits        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+🌃 Evening                2197 commits        ███████████████░░░░░░░░░░   59.35 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 
@@ -20,31 +20,28 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.18 % 
-TypeScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Git Config               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown                 20 mins             ████████████████░░░░░░░░░   65.63 % 
+Git Config               8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Git                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Antigravity IDE          35 mins             ████████████████░░░░░░░░░   62.91 % 
-Claude Code              20 mins             █████████░░░░░░░░░░░░░░░░   37.09 % 
+Claude Code              20 mins             ████████████████░░░░░░░░░   65.47 % 
+Antigravity IDE          10 mins             █████████░░░░░░░░░░░░░░░░   34.53 % 
 
 🐱‍💻 Projects: 
-brain                    31 mins             ██████████████░░░░░░░░░░░   56.65 % 
-jd-scrap                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
-jd-scrapper              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+brain                    31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (37.43%)
+⏱ AI Coding Time: 21 mins (66.08%)
 
-✍️ 202 lines written by AI, 398 lines written by hand (33.67% AI-written)
+✍️ 202 lines written by AI, 6 lines written by hand (97.12% AI-written)
 
 🔤 2,386,194 Input Tokens, 30,147 Output Tokens
 
@@ -56,10 +53,10 @@ Opus                     202 lines           ███████████�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.67% of written lines came from AI
+🤖 AI-Driven — 97.12% of written lines came from AI
 📄 Detailed Prompter — average 802 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 66.33% of changed lines were hand-edited
+🚀 High AI Trust — 2.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +72,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:45:49 UTC
+ Last Updated on 04/08/2026 20:12:05 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -2,13 +2,15 @@
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-🌆 Daytime                1062 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌃 Evening                2199 commits        ███████████████░░░░░░░░░░   59.30 % 
-🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌞 Morning                351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌆 Daytime                1064 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌃 Evening                2199 commits        ███████████████░░░░░░░░░░   59.26 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
 
@@ -18,42 +20,42 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 20 mins             ████████████████░░░░░░░░░   65.63 % 
-Git Config               8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Git                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 19 mins             ████████████████░░░░░░░░░   63.58 % 
+Git Config               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Git                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Claude Code              20 mins             ████████████████░░░░░░░░░   65.47 % 
-Antigravity IDE          10 mins             █████████░░░░░░░░░░░░░░░░   34.53 % 
+Claude Code              19 mins             ████████████████░░░░░░░░░   63.41 % 
+Antigravity IDE          10 mins             █████████░░░░░░░░░░░░░░░░   36.59 % 
 
 🐱‍💻 Projects: 
-brain                    31 mins             █████████████████████████   100.00 % 
+brain                    30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (66.08%)
+⏱ AI Coding Time: 19 mins (64.05%)
 
 ✍️ 202 lines written by AI, 6 lines written by hand (97.12% AI-written)
 
-🔤 2,386,194 Input Tokens, 30,147 Output Tokens
+🔤 1,403,205 Input Tokens, 24,961 Output Tokens
 
-💵 $10.67 Estimated AI Cost This Week
+💵 $8.65 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
 Opus                     202 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.12% of written lines came from AI
-📄 Detailed Prompter — average 802 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 639 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 2.88% of changed lines were hand-edited
 ```
 
@@ -70,7 +72,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:26:46 UTC
+ Last Updated on 07/08/2026 19:33:23 UTC
 <!--END_SECTION:waka-->
 
 <!--

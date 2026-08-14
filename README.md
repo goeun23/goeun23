@@ -8,8 +8,8 @@
 
 ```text
 🌞 Morning                356 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-🌆 Daytime                1070 commits        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌃 Evening                2201 commits        ███████████████░░░░░░░░░░   59.07 % 
+🌆 Daytime                1072 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                2201 commits        ███████████████░░░░░░░░░░   59.04 % 
 🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 
@@ -20,41 +20,42 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 22 mins             ███████████████████████░░   92.91 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Other                    27 mins             ██████████████░░░░░░░░░░░   55.48 % 
+Markdown                 22 mins             ███████████░░░░░░░░░░░░░░   44.52 % 
 
 🔥 Editors: 
-Claude Code              19 mins             █████████████████████░░░░   83.40 % 
-Antigravity IDE          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Claude Code              44 mins             ███████████████████████░░   90.01 % 
+Antigravity IDE          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🐱‍💻 Projects: 
-brain                    22 mins             ███████████████████████░░   92.91 % 
-amphipod                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+brain                    48 mins             ████████████████████████░   96.60 % 
+amphipod                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (100.0%)
+⏱ AI Coding Time: 49 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 69,041 Input Tokens, 31,558 Output Tokens
+🔤 280,576 Input Tokens, 60,634 Output Tokens
 
-💵 $2.48 Estimated AI Cost This Week
+💵 $6.86 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 49 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 45 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -71,7 +72,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:37:05 UTC
+ Last Updated on 14/08/2026 19:31:48 UTC
 <!--END_SECTION:waka-->
 
 <!--

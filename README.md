@@ -20,43 +20,47 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    27 mins             ██████████████░░░░░░░░░░░   55.48 % 
-Markdown                 22 mins             ███████████░░░░░░░░░░░░░░   44.52 % 
+Markdown                 1 hr                █████████████░░░░░░░░░░░░   51.84 % 
+Other                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+CSS                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Claude Code              44 mins             ███████████████████████░░   90.01 % 
-Antigravity IDE          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Claude Code              1 hr 35 mins        ████████████████████░░░░░   81.74 % 
+Antigravity IDE          21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 
 🐱‍💻 Projects: 
-brain                    48 mins             ████████████████████████░   96.60 % 
-amphipod                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+brain                    1 hr 4 mins         ██████████████░░░░░░░░░░░   55.48 % 
+temp-chat-kdata          50 mins             ███████████░░░░░░░░░░░░░░   43.07 % 
+amphipod                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (100.0%)
+⏱ AI Coding Time: 1 hr 57 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 911 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 280,576 Input Tokens, 60,634 Output Tokens
+🔤 685,930 Input Tokens, 137,774 Output Tokens
 
-💵 $6.86 Estimated AI Cost This Week
+💵 $18.80 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 12 AI Sessions, 39 AI Prompts
 
+Opus                     913 lines           █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 518 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +76,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:59:19 UTC
+ Last Updated on 16/08/2026 18:58:36 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -7,10 +7,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                356 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-🌆 Daytime                1072 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-🌃 Evening                2203 commits        ███████████████░░░░░░░░░░   59.06 % 
-🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌆 Daytime                1077 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌃 Evening                2208 commits        ███████████████░░░░░░░░░░   58.94 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 
@@ -20,45 +20,47 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr                █████████████░░░░░░░░░░░░   51.84 % 
-Other                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-CSS                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown                 1 hr 31 mins        ██████████████░░░░░░░░░░░   56.46 % 
+Other                    38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Claude Code              1 hr 35 mins        ████████████████████░░░░░   81.74 % 
-Antigravity IDE          21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Claude Code              2 hrs 13 mins       █████████████████████░░░░   82.60 % 
+Antigravity IDE          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 
 🐱‍💻 Projects: 
-brain                    1 hr 4 mins         ██████████████░░░░░░░░░░░   55.48 % 
-temp-chat-kdata          50 mins             ███████████░░░░░░░░░░░░░░   43.07 % 
-amphipod                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+brain                    1 hr 46 mins        ████████████████░░░░░░░░░   65.57 % 
+temp-chat-kdata          50 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
+cb-smartcity-rag-chatbot-3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+amphipod                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 41 mins (100.0%)
 
-✍️ 911 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 835 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 685,930 Input Tokens, 137,774 Output Tokens
+🔤 1,294,421 Input Tokens, 185,889 Output Tokens
 
-💵 $18.80 Estimated AI Cost This Week
+💵 $19.80 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 39 AI Prompts
+🧠 14 AI Sessions, 47 AI Prompts
 
-Opus                     913 lines           █████████████████████████   100.00 % 
+Opus                     780 lines           ███████████████████████░░   93.19 % 
+Sonnet                   57 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 518 characters per prompt
+📝 Concise Prompter — average 446 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -66,17 +68,17 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ████████████░░░░░░░░░░░░░   48.65 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+TypeScript               18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 ```
 
 
 
 
- Last Updated on 17/08/2026 19:09:52 UTC
+ Last Updated on 18/08/2026 19:09:21 UTC
 <!--END_SECTION:waka-->
 
 <!--

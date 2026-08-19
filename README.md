@@ -2,14 +2,14 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                1077 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌃 Evening                2208 commits        ███████████████░░░░░░░░░░   58.94 % 
+🌞 Morning                365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                1080 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌃 Evening                2213 commits        ███████████████░░░░░░░░░░   58.90 % 
 🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
@@ -20,47 +20,44 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 31 mins        ██████████████░░░░░░░░░░░   56.46 % 
-Other                    38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 1 hr 30 mins        █████████████████░░░░░░░░   68.29 % 
+Other                    38 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+SSH Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 13 mins       █████████████████████░░░░   82.60 % 
-Antigravity IDE          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Claude Code              2 hrs               ███████████████████████░░   91.06 % 
+Antigravity IDE          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 🐱‍💻 Projects: 
-brain                    1 hr 46 mins        ████████████████░░░░░░░░░   65.57 % 
-temp-chat-kdata          50 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
-cb-smartcity-rag-chatbot-3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-amphipod                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+brain                    2 hrs 6 mins        ████████████████████████░   95.95 % 
+cb-smartcity-rag-chatbot-3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+amphipod                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 12 mins (100.0%)
 
-✍️ 835 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,294,421 Input Tokens, 185,889 Output Tokens
+🔤 1,162,628 Input Tokens, 166,937 Output Tokens
 
-💵 $19.80 Estimated AI Cost This Week
+💵 $17.11 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 47 AI Prompts
+🧠 13 AI Sessions, 43 AI Prompts
 
-Opus                     780 lines           ███████████████████████░░   93.19 % 
-Sonnet                   57 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sonnet                   57 lines            █████████████████████████   98.28 % 
+Opus                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 446 characters per prompt
+📄 Detailed Prompter — average 553 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -78,7 +75,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:09:21 UTC
+ Last Updated on 19/08/2026 19:06:13 UTC
 <!--END_SECTION:waka-->
 
 <!--

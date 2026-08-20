@@ -7,10 +7,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                1080 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌃 Evening                2213 commits        ███████████████░░░░░░░░░░   58.90 % 
-🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+🌞 Morning                365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌆 Daytime                1081 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌃 Evening                2215 commits        ███████████████░░░░░░░░░░   58.91 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -20,35 +20,32 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 30 mins        █████████████████░░░░░░░░   68.29 % 
-Other                    38 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-SSH Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Markdown                 50 mins             ███████████████░░░░░░░░░░   58.06 % 
+Other                    36 mins             ██████████░░░░░░░░░░░░░░░   41.94 % 
 
 🔥 Editors: 
-Claude Code              2 hrs               ███████████████████████░░   91.06 % 
-Antigravity IDE          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Claude Code              1 hr 25 mins        ████████████████████████░   97.99 % 
+Antigravity IDE          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🐱‍💻 Projects: 
-brain                    2 hrs 6 mins        ████████████████████████░   95.95 % 
-cb-smartcity-rag-chatbot-3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-amphipod                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+brain                    1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (100.0%)
+⏱ AI Coding Time: 1 hr 27 mins (100.0%)
 
 ✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,162,628 Input Tokens, 166,937 Output Tokens
+🔤 836,188 Input Tokens, 107,391 Output Tokens
 
-💵 $17.11 Estimated AI Cost This Week
+💵 $11.19 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 43 AI Prompts
+🧠 8 AI Sessions, 25 AI Prompts
 
 Sonnet                   57 lines            █████████████████████████   98.28 % 
 Opus                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
@@ -57,7 +54,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 553 characters per prompt
+📄 Detailed Prompter — average 782 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -75,7 +72,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:06:13 UTC
+ Last Updated on 20/08/2026 19:13:26 UTC
 <!--END_SECTION:waka-->
 
 <!--

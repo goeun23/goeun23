@@ -7,9 +7,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                1081 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌃 Evening                2215 commits        ███████████████░░░░░░░░░░   58.91 % 
+🌞 Morning                369 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                1084 commits        ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+🌃 Evening                2215 commits        ███████████████░░░░░░░░░░   58.80 % 
 🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
@@ -20,42 +20,37 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 50 mins             ███████████████░░░░░░░░░░   58.06 % 
-Other                    36 mins             ██████████░░░░░░░░░░░░░░░   41.94 % 
+Markdown                 29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 25 mins        ████████████████████████░   97.99 % 
-Antigravity IDE          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Claude Code              29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-brain                    1 hr 27 mins        █████████████████████████   100.00 % 
+brain                    29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (100.0%)
+⏱ AI Coding Time: 29 mins (100.0%)
 
-✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 836,188 Input Tokens, 107,391 Output Tokens
+🔤 106,767 Input Tokens, 29,641 Output Tokens
 
-💵 $11.19 Estimated AI Cost This Week
+💵 $2.46 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
+🧠 6 AI Sessions, 15 AI Prompts
 
-Sonnet                   57 lines            █████████████████████████   98.28 % 
-Opus                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 782 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,272 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -72,7 +67,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:13:26 UTC
+ Last Updated on 21/08/2026 19:09:00 UTC
 <!--END_SECTION:waka-->
 
 <!--

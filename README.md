@@ -7,10 +7,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                369 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-🌆 Daytime                1084 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌃 Evening                2218 commits        ███████████████░░░░░░░░░░   58.83 % 
-🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌞 Morning                374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+🌆 Daytime                1096 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+🌃 Evening                2218 commits        ███████████████░░░░░░░░░░   58.57 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
 
@@ -20,38 +20,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-brain                    29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (100.0%)
-
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 106,767 Input Tokens, 29,641 Output Tokens
-
-💵 $2.46 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 15 AI Prompts
-
-Opus                     1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,272 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,7 +51,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:12:28 UTC
+ Last Updated on 25/08/2026 19:11:10 UTC
 <!--END_SECTION:waka-->
 
 <!--

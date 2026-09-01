@@ -7,10 +7,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-🌆 Daytime                1219 commits        ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌃 Evening                2262 commits        ██████████████░░░░░░░░░░░   56.63 % 
-🌙 Night                  104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+🌞 Morning                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+🌆 Daytime                1219 commits        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+🌃 Evening                2269 commits        ██████████████░░░░░░░░░░░   56.70 % 
+🌙 Night                  105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 
@@ -20,22 +20,38 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+brain                    3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (100.0%)
+
+✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,599 Input Tokens, 1,300 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+Opus                     2 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -51,7 +67,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 23:01:33 UTC
+ Last Updated on 01/09/2026 21:16:34 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -20,22 +20,39 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              8 mins              ████████████████████░░░░░   80.08 % 
+Antigravity IDE          2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kdata-recipe-web         10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (99.06%)
+
+✍️ 0 lines written by AI, 43 lines written by hand (0.0% AI-written)
+
+🔤 60,862 Input Tokens, 4,190 Output Tokens
+
+💵 $0.92 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 5 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 37 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -51,7 +68,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:11:13 UTC
+ Last Updated on 22/09/2026 21:38:13 UTC
 <!--END_SECTION:waka-->
 
 <!--

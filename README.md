@@ -8,9 +8,9 @@
 
 ```text
 🌞 Morning                553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-🌆 Daytime                1642 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-🌃 Evening                2647 commits        █████████████░░░░░░░░░░░░   53.28 % 
-🌙 Night                  126 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+🌆 Daytime                1642 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌃 Evening                2647 commits        █████████████░░░░░░░░░░░░   53.26 % 
+🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 
 
@@ -20,44 +20,39 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 46 mins             ████████████████░░░░░░░░░   65.43 % 
-TypeScript               17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 8 mins         ████████████████████████░   96.90 % 
-Antigravity IDE          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Claude Code              8 mins              ████████████████████░░░░░   80.08 % 
+Antigravity IDE          2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 
 🐱‍💻 Projects: 
-brain                    53 mins             ███████████████████░░░░░░   75.50 % 
-kdata-recipe-web         17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Desktop                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+kdata-recipe-web         10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (99.85%)
+⏱ AI Coding Time: 10 mins (99.06%)
 
-✍️ 1,278 lines written by AI, 43 lines written by hand (96.74% AI-written)
+✍️ 0 lines written by AI, 43 lines written by hand (0.0% AI-written)
 
-🔤 418,860 Input Tokens, 69,674 Output Tokens
+🔤 60,862 Input Tokens, 4,190 Output Tokens
 
-💵 $10.72 Estimated AI Cost This Week
+💵 $0.92 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Opus                     1,279 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.74% of written lines came from AI
-📚 Verbose Prompter — average 2,566 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 37 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.25% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +68,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:27:17 UTC
+ Last Updated on 27/09/2026 21:34:02 UTC
 <!--END_SECTION:waka-->
 
 <!--

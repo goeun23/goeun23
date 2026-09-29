@@ -8,8 +8,8 @@
 
 ```text
 🌞 Morning                553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                1646 commits        ████████░░░░░░░░░░░░░░░░░   33.09 % 
-🌃 Evening                2647 commits        █████████████░░░░░░░░░░░░   53.22 % 
+🌆 Daytime                1647 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
+🌃 Evening                2647 commits        █████████████░░░░░░░░░░░░   53.21 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 
@@ -20,39 +20,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              8 mins              ████████████████████░░░░░   80.08 % 
-Antigravity IDE          2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kdata-recipe-web         10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (99.06%)
-
-✍️ 0 lines written by AI, 43 lines written by hand (0.0% AI-written)
-
-🔤 60,862 Input Tokens, 4,190 Output Tokens
-
-💵 $0.92 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 5 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 37 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -68,7 +51,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:29:24 UTC
+ Last Updated on 29/09/2026 22:34:29 UTC
 <!--END_SECTION:waka-->
 
 <!--

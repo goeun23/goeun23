@@ -8,8 +8,8 @@
 
 ```text
 🌞 Morning                553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                1656 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌃 Evening                2654 commits        █████████████░░░░░░░░░░░░   53.18 % 
+🌆 Daytime                1656 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌃 Evening                2656 commits        █████████████░░░░░░░░░░░░   53.19 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
@@ -20,22 +20,46 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 55 mins        ████████████████░░░░░░░░░   62.01 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 1 min         ████████████████████████░   97.30 % 
+Antigravity IDE          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+brain                    1 hr 51 mins        ███████████████░░░░░░░░░░   59.63 % 
+kdata-recipe-web         31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+brain-site               31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Desktop                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 1 min (97.36%)
+
+✍️ 2,001 lines written by AI, 1 lines written by hand (99.95% AI-written)
+
+🔤 1,042,514 Input Tokens, 356,167 Output Tokens
+
+💵 $23.48 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 88 AI Prompts
+
+Opus                     2,020 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.95% of written lines came from AI
+📝 Concise Prompter — average 491 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -51,7 +75,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:52:47 UTC
+ Last Updated on 06/10/2026 00:17:49 UTC
 <!--END_SECTION:waka-->
 
 <!--

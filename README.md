@@ -8,8 +8,8 @@
 
 ```text
 🌞 Morning                555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌆 Daytime                1657 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌃 Evening                2656 commits        █████████████░░░░░░░░░░░░   53.16 % 
+🌆 Daytime                1658 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌃 Evening                2656 commits        █████████████░░░░░░░░░░░░   53.15 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
@@ -20,46 +20,46 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 54 mins        ███████████████░░░░░░░░░░   61.87 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Markdown                 1 hr 40 mins        ██████████████████░░░░░░░   72.86 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Claude Code              3 hrs               ████████████████████████░   97.29 % 
-Antigravity IDE          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Claude Code              2 hrs 12 mins       ████████████████████████░   96.34 % 
+Antigravity IDE          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🐱‍💻 Projects: 
-brain                    1 hr 50 mins        ███████████████░░░░░░░░░░   59.48 % 
-kdata-recipe-web         31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-brain-site               31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Desktop                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+brain                    1 hr 28 mins        ████████████████░░░░░░░░░   64.26 % 
+kdata-recipe-web         31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Desktop                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+brain-site               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs (97.35%)
+⏱ AI Coding Time: 2 hrs 12 mins (96.43%)
 
-✍️ 2,001 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,253 lines written by AI, 1 lines written by hand (99.92% AI-written)
 
-🔤 988,380 Input Tokens, 353,784 Output Tokens
+🔤 751,568 Input Tokens, 251,791 Output Tokens
 
-💵 $23.19 Estimated AI Cost This Week
+💵 $15.08 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 87 AI Prompts
+🧠 8 AI Sessions, 68 AI Prompts
 
-Opus                     2,020 lines         █████████████████████████   100.00 % 
+Opus                     1,268 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 496 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 623 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:47:21 UTC
+ Last Updated on 07/10/2026 23:18:13 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -20,51 +20,52 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 12 hrs 22 mins      ████████████░░░░░░░░░░░░░   47.02 % 
-TypeScript               5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Other                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Text                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 11 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+TypeScript               6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Other                    5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Text                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 1 min        █████████████████████████   98.91 % 
-Obsidian                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Claude Code              27 hrs 44 mins      ████████████████████████░   96.72 % 
+Obsidian                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-kdata-web                10 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   40.00 % 
-goeun                    8 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-brain                    4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Desktop                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-brain-site               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+goeun                    9 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
+kdata-web                9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+brain                    5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Desktop                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+cb-smartcity-rag-chatbot-1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 💻 Operating System: 
-Mac                      26 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 8 mins (99.35%)
+⏱ AI Coding Time: 28 hrs 4 mins (97.88%)
 
-✍️ 16,119 lines written by AI, 104 lines written by hand (99.36% AI-written)
+✍️ 14,001 lines written by AI, 113 lines written by hand (99.2% AI-written)
 
-🔤 21,424,054 Input Tokens, 3,516,210 Output Tokens
+🔤 24,991,999 Input Tokens, 3,837,237 Output Tokens
 
-💵 $356.71 Estimated AI Cost This Week
+💵 $422.72 Estimated AI Cost This Week
 
-🧠 146 AI Sessions, 539 AI Prompts
+🧠 159 AI Sessions, 708 AI Prompts
 
-Opus                     17,671 lines        █████████████████████████   98.77 % 
-Fable                    220 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Opus                     15,201 lines        █████████████████████████   98.07 % 
+Fable                    299 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📚 Verbose Prompter — average 1,558 characters per prompt
+🤖 AI-Driven — 99.2% of written lines came from AI
+📚 Verbose Prompter — average 1,793 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🚀 High AI Trust — 1.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +81,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 02:46:15 UTC
+ Last Updated on 26/11/2026 01:57:16 UTC
 <!--END_SECTION:waka-->
 
 <!--

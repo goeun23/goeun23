@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -20,52 +20,52 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 11 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
-TypeScript               6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Other                    5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Text                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Markdown                 13 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.06 % 
+Other                    6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+TypeScript               5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Text                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 44 mins      ████████████████████████░   96.72 % 
-Obsidian                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              27 hrs 17 mins      ██████████████████████░░░   87.97 % 
+Obsidian                 3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-goeun                    9 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
-kdata-web                9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
-brain                    5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Desktop                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-cb-smartcity-rag-chatbot-1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+goeun                    10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.41 % 
+kdata-web                8 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+brain                    7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Desktop                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+cb-smartcity-rag-chatbot-1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 💻 Operating System: 
-Mac                      28 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 4 mins (97.88%)
+⏱ AI Coding Time: 28 hrs (90.29%)
 
-✍️ 14,001 lines written by AI, 113 lines written by hand (99.2% AI-written)
+✍️ 18,589 lines written by AI, 151 lines written by hand (99.19% AI-written)
 
-🔤 24,991,999 Input Tokens, 3,837,237 Output Tokens
+🔤 29,324,820 Input Tokens, 4,228,332 Output Tokens
 
-💵 $422.72 Estimated AI Cost This Week
+💵 $552.28 Estimated AI Cost This Week
 
-🧠 159 AI Sessions, 708 AI Prompts
+🧠 174 AI Sessions, 776 AI Prompts
 
-Opus                     15,201 lines        █████████████████████████   98.07 % 
-Fable                    299 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Opus                     19,219 lines        █████████████████████████   98.32 % 
+Fable                    329 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📚 Verbose Prompter — average 1,793 characters per prompt
+🤖 AI-Driven — 99.19% of written lines came from AI
+📚 Verbose Prompter — average 1,831 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.54% of changed lines were hand-edited
+🚀 High AI Trust — 2.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +81,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 01:57:16 UTC
+ Last Updated on 27/11/2026 01:55:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
